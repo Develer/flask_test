@@ -1,0 +1,1 @@
+{ "options" : { "create" : "worksample" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "worksample.worksample", "name" : "_id_" } ] }
